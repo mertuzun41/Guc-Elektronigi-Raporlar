@@ -1,3 +1,5 @@
+**Türkçe** | [English](README.en.md)
+
 # Güç Elektroniği Raporları
 
 Kocaeli Üniversitesi'ndeki güç elektroniği dersleri kapsamında hazırladığım simülasyon, devre analizi ve laboratuvar uygulaması raporları.
